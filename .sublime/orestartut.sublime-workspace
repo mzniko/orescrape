@@ -1,0 +1,479 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"f",
+				"font-weight"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"mari",
+				"margin-bottom"
+			],
+			[
+				"color",
+				"color"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"conten",
+				"contentbody"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"C",
+				"ContactForm"
+			],
+			[
+				"min",
+				"margin-left"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"page",
+				"page-header"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"n",
+				"nav-pills"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"imag",
+				"main-images"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"main",
+				"main-img1"
+			],
+			[
+				"c",
+				"config"
+			],
+			[
+				"F",
+				"FLASKR_SETTINGS"
+			],
+			[
+				"HOME",
+				"HOME"
+			],
+			[
+				"New",
+				"NEWPROJ"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/marko/webapps/orescrape/tutorial/tutorial/items.py",
+			"settings":
+			{
+				"buffer_size": 313,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 180.0,
+		"selected_items":
+		[
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				":s",
+				":w - Save"
+			],
+			[
+				":",
+				":$ - EOF"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/marko/webapps/orescrape/tutorial/tutorial/items.py",
+		"/home/marko/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/tmp/1-__init__.py",
+		"/home/marko/webapps/hackoregon/hackoregon/static/css/main.css",
+		"/home/marko/webapps/hackoregon/hackoregon/__init__.py",
+		"/home/marko/webapps/hackoregon/hackoregon/templates/indexbody.html",
+		"/home/marko/webapps/hackoregon/hackoregon/templates/base.html",
+		"/tmp/1-base.html",
+		"/tmp/1-index.html",
+		"/tmp/1-indexbody.html",
+		"/home/marko/webapps/hackoregon/hackoregon/templates/donate.html",
+		"/home/marko/webapps/hackoregon/hackoregon/templates/about.html",
+		"/home/marko/webapps/hackoregon/hackoregon/templates/contact.html",
+		"/home/marko/webapps/hackoregon/hackoregon/forms.py",
+		"/home/marko/webapps/hackoregon/hackoregon/templates/head.html",
+		"/home/marko/webapps/hackoregon/hackoregon/templates/index.html",
+		"/tmp/5-main.css",
+		"/tmp/4-main.css",
+		"/tmp/3-main.css",
+		"/tmp/2-main.css",
+		"/home/marko/webapps/taisr/taisr/templates/index.html",
+		"/tmp/1-main.css",
+		"/home/marko/Desktop/hackoregon/www/hackoregon/hackoregon/templates/base.html",
+		"/tmp/2-index.html",
+		"/tmp/3-__init__.py",
+		"/tmp/1-flask_wf_deploy.sh",
+		"/tmp/2-__init__.py",
+		"/home/marko/webapps/chinese-cg/chinese-cg/__init__.py",
+		"/home/marko/Desktop/bin/flask_project.sh",
+		"/home/marko/Desktop/chrisgooris/www/routes.py",
+		"/home/marko/Desktop/chrisgooris/www/templates/home.html",
+		"/home/marko/webapps/hackoregon/hackoregon/templates/hello.html",
+		"/home/marko/webapps/hackoregon/hackoregon/templates/home.html",
+		"/home/marko/webapps/hackoregon/flaskr/templates/login.html",
+		"/home/marko/webapps/hackoregon/flaskr/templates/show_entries.html",
+		"/home/marko/webapps/hackoregon/flaskr/templates/layout.html",
+		"/home/marko/webapps/hackoregon/flaskr/static/style.css",
+		"/home/marko/webapps/hackoregon/flaskr/flaskr.py",
+		"/home/marko/webapps/hackoregon/flaskr/schema.sql",
+		"/home/marko/webapps/hackoregon/flaskr/db.py",
+		"/home/marko/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/marko/Desktop/bin/flask_wf_install.sh",
+		"/home/marko/webdev/bin/flask_wf_install.sh",
+		"/home/marko/webdev/bin/flask_project.sh",
+		"/tmp/distribute_setup.py",
+		"/home/marko/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/marko/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/usr/share/applications/defaults.list",
+		"/usr/share/applications/sublime.desktop"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"60",
+			"h6",
+			"org",
+			"indexbody",
+			"h5",
+			"003366",
+			"9966CC",
+			"663399",
+			"primary",
+			"300px",
+			"main",
+			"0F7B70",
+			"d19c11",
+			"F7DCB4",
+			"9C9F84",
+			" #\n",
+			" #",
+			"e44d26",
+			"9C9F",
+			"e44d26",
+			"css",
+			"NEWPROJ",
+			"HOME",
+			"webdev",
+			"py",
+			"routes",
+			"APPNAME",
+			"new_project",
+			"from",
+			"gedit.desktop"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sublime.desktop"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/marko/webapps/orescrape/tutorial/tutorial/items.py",
+					"settings":
+					{
+						"buffer_size": 313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								313,
+								313
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 190.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ls",
+				"/home/marko/webapps/orescrape/tutorial/tutorial/items.py"
+			],
+			[
+				"css",
+				"hackoregon/static/css/main.css"
+			],
+			[
+				"do",
+				"hackoregon/templates/donate.html"
+			],
+			[
+				"bas",
+				"hackoregon/templates/base.html"
+			],
+			[
+				"__",
+				"hackoregon/__init__.py"
+			],
+			[
+				"cont",
+				"hackoregon/templates/contact.html"
+			],
+			[
+				"main",
+				"hackoregon/static/css/main.css"
+			],
+			[
+				"ind",
+				"hackoregon/templates/indexbody.html"
+			],
+			[
+				"in",
+				"hackoregon/__init__.py"
+			],
+			[
+				"donate",
+				"hackoregon/templates/donate.html"
+			],
+			[
+				"about",
+				"hackoregon/templates/about.html"
+			],
+			[
+				"ini",
+				"hackoregon/__init__.py"
+			],
+			[
+				"form",
+				"hackoregon/forms.py"
+			],
+			[
+				"contact",
+				"hackoregon/templates/contact.html"
+			],
+			[
+				"head",
+				"hackoregon/templates/head.html"
+			],
+			[
+				"base",
+				"hackoregon/templates/base.html"
+			],
+			[
+				"inde",
+				"templates/index.html"
+			],
+			[
+				"home",
+				"templates/home.html"
+			],
+			[
+				"fl",
+				"/home/marko/webapps/hackoregon/flaskr/flaskr.py"
+			],
+			[
+				"",
+				"hackoregon/__init__.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true
+}
